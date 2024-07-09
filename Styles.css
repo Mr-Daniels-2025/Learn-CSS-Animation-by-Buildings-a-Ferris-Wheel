@@ -7,7 +7,10 @@
   width: 55vw;
   max-width: 500px;
   max-height: 500px;
+  animation-name: wheel; /* Linking to @keyframes rule named 'wheel' */
+  animation-duration: 10s; /* Animation duration set to 10 seconds */
 }
+
 
 .line {
   position: absolute;
