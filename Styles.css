@@ -9,8 +9,9 @@
   max-height: 500px;
   animation-name: wheel; /* Linking to @keyframes rule named 'wheel' */
   animation-duration: 10s; /* Animation duration set to 10 seconds */
+  animation-iteration-count: infinite; /* Animation repeats indefinitely */
+  animation-timing-function: linear; /* Animation progresses at a constant rate */
 }
-
 
 .line {
   position: absolute;
