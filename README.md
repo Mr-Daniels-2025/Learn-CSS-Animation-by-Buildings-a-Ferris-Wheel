@@ -1,1 +1,1 @@
-# Learn-CSS-Animation-by-Buildings-a-Ferris-Wheel
+# Learn-CSS-Animation-by-Building-a-Ferris-Wheel
