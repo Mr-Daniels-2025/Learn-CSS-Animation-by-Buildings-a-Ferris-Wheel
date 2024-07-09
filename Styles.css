@@ -51,7 +51,7 @@
   position: absolute;
   border: 2px solid;
   transform-origin: 50% 0%;
-  animation: cabins 10s linear infinite;
+  animation: cabins 10s ease-in-out infinite; /* Changed timing function to ease-in-out */
 }
 
 .cabin:nth-of-type(1) {
