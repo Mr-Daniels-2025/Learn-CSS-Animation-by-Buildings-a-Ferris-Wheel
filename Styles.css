@@ -91,18 +91,21 @@
   100% {
     transform: rotate(360deg);
   }
-}@keyframes cabins {
+}
+@keyframes cabins {
   0% {
     transform: rotate(0deg);
-    background-color: yellow; /* Set background-color to yellow at 0% */
+    /* Removed background-color from 0% selector */
   }
   50% {
     background-color: purple; /* Set background-color to purple at 50% */
   }
   100% {
     transform: rotate(-360deg);
+    background-color: yellow; /* Set background-color to yellow at 100% */
   }
 }
+
 
 
 
